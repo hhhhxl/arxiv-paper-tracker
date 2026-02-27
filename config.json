@@ -1,0 +1,13 @@
+{
+  "keywords": [
+    "UAV"
+  ],
+  "keyword_fields": [
+    "all:"
+  ],
+  "max_results": 10,
+  "output_formats": [
+    "md"
+  ],
+  "silent": false
+}
